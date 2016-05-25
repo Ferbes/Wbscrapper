@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'Nike.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'Nike (+http://www.yourdomain.com)'
+USER_AGENT = 'Adrian Leoniak, Konrad Ferbes project for University, Nike'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS=32
